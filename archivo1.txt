@@ -1,1 +1,6 @@
-Prueba de texto 1
+README
+
+Para las variables de entorno, convencionalmente se usa el archivo:
+
+.env
+
