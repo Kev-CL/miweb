@@ -7,4 +7,5 @@ Para las variables de entorno, convencionalmente se usa el archivo:
 Para que git ignere archivos a subir, es necesario enlistarlos
 en el archivo .ignore. 
 
-Agregando txt1
+fin.
+
